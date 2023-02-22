@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamallochan Das</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venom7007&label=Profile%20views&color=0fba03&style=flat" alt="venom7007" /> </p>
+
 - 🔭 I’m a Student 
 
 - 🌱 I’m currently learning Computer Science Engineering 

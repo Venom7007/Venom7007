@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamallochan2004&label=Profile%20views&color=0fba03&style=flat" alt="kamallochan2004" /> </p>
 
-- 🔭 I’m a Student working on myself
+- 🔭 I’m a Student currently learning Data Structures and Algorithms.
 
-- 🌱 I’m currently pursuing Computer Science Engineering 
+- 🌱 I’m pursuing Computer Science Engineering 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kamallochan Das</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&lines=Hello+%F0%9F%91%8B%2C+I'm+Kamallochan+)](https://git.io/typing-svg)
+
+<h3 align="left">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamallochan2004&label=Profile%20views&color=0fba03&style=flat" alt="kamallochan2004" /> </p>
 
@@ -12,7 +13,7 @@
 <a href="https://www.linkedin.com/in/kamallochan-das-361a42260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamallochan" height="30" width="40" /></a>
 <a href="https://instagram.com/kamallochn_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamallochn_das" height="30" width="40" /></a>
 <p align="left">
-<a href="https://t.me/kamallochan_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/inferno0230/inferno0230/main/assets/telegram-icon.svg" alt="inferno0230" height="30" width="40" /></a>
+<a href="https://t.me/kamallochan_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/inferno0230/inferno0230/main/assets/telegram-icon.svg" alt="kamallochan2004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

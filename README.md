@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamallochan2004&label=Profile%20views&color=0fba03&style=flat" alt="kamallochan2004" /> </p>
 
-- 🔭 I’m a Student currently learning Data Structures and Algorithms.
+- 🔭 I’m a Student currently learning Backend Development.
 
 - 🌱 I’m pursuing Computer Science Engineering 
 
